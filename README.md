@@ -49,3 +49,5 @@ This file contains the JavaScript logic that enables the slider functionality, i
 2. **Navigation**: Use the **Previous** and **Next** buttons to slide through the cards. The slider will loop from the last card to the first and vice versa.
 3. **Responsive**: The slider will automatically adjust its size according to the screen width, making it usable on mobile, tablet, and desktop devices.
 
+## Contact
+For any inquiries or support, please contact [Your Name] at [your-email@example.com].
